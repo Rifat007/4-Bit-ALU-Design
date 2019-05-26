@@ -4,9 +4,13 @@ Schematic design of 4-Bit ALU
 4-bit ALU Design Specification
 
 Required Flags:
+
 • Carry
+
 • Sign
+
 • Overflow
+
 • Zero
 
 Design and Implementation Issues:
